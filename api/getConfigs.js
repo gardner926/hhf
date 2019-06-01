@@ -1,5 +1,5 @@
 {
-    "host" : "https://pay.zhongfeipay.com/",
+    "host" : "https://pay.hanghaifu.com/",
     "version" : "1.6.8.0529_R",
     "about" : "https://github.com/huyquan/pmt",
     "tryNotifyInterval" : 5000,
